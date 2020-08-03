@@ -33,7 +33,7 @@
 [Buy Me A Beer](https://www.buymeacoffee.com/itsmat32143) <br>
 [Paypal](https://paypal.com) <br> <br>
 
-[Download Brave](https://brave.com/its458)
+[Download Brave](https://brave.com/its458) <br>
 [Brave Rewards](https://brave.com/tip-with-brave/) <br>
 [Basic Attention Token](1GygUYqU3hJtaTaeRFeGZsGdTezSognfLC) <br> <br>
 
