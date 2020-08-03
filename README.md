@@ -15,11 +15,11 @@
 
 
 <details>
-  <summary>Ways To Support My Projects</summary>
+  <summary>Ways To Support My Projects</summary> <br>
 
 [Buy Me A Beer](https://www.buymeacoffee.com/itsmat32143) <br>
-[https://itsmat32143.github.io/Block/GAFAM/Amazon](https://itsmat32143.github.io/Block/GAFAM/Amazon)
-
+[Paypal](https://itsmat32143.github.io/Block/GAFAM/Amazon) <br>
+[Brave Rewards](https://itsmat32143.github.io/Block/GAFAM/Amazon) <br>
 
 </details>
 
