@@ -17,9 +17,9 @@
 <details>
   <summary>Ways To Support My Projects</summary>
 
-[! [Buy Me A Beer](https://www.buymeacoffee.com/itsmat32143) ]
-[! [https://itsmat32143.github.io/Block/GAFAM/Amazon](https://itsmat32143.github.io/Block/GAFAM/Amazon) ]
-[! [https://itsmat32143.github.io/Block/GAFAM/Amazon](https://itsmat32143.github.io/Block/GAFAM/Amazon) ]
+[Buy Me A Beer](https://www.buymeacoffee.com/itsmat32143)
+[https://itsmat32143.github.io/Block/GAFAM/Amazon](https://itsmat32143.github.io/Block/GAFAM/Amazon)
+
 
 </details>
 
