@@ -11,17 +11,6 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nickspaargaren&repo=no-amazon)](https://github.com/nickspaargaren/no-amazon)
 
 
-</details>
-
-<details>
-  <summary>Work projects I can share</summary>
-
-<a href="https://rec.barcelona/"><img height="50" src="https://rec.barcelona/wp-content/uploads/2018/03/Logo_1200_rec_moneda-600x240.png"></a>
-<a href="https://www.linkedin.com/company/sindicatorobot-org/"><img height="50" src="https://github.com/nombrekeff/resources/blob/master/0.jpeg?raw=true"></a>
-<a href="https://www.linkedin.com/company/chip-chap"><img height="50" src="https://github.com/nombrekeff/resources/blob/master/chip-chap.png?raw=true"></a>
-
-</details>
-
 
 
 
