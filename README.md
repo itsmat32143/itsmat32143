@@ -11,6 +11,8 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nickspaargaren&repo=no-amazon)](https://github.com/nickspaargaren/no-amazon)
 
 <details>
+
+<details>
   <summary>Ways To Support My Projects</summary>
 
 [Buy Me A Beer](https://www.buymeacoffee.com/itsmat32143)
