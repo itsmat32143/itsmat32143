@@ -5,29 +5,6 @@
 ### Want to know more? Open the colapsible menu below 😊
 
 <details>
-  <summary>Projects I've Helped With</summary>
-  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nickspaargaren&repo=no-google)](https://github.com/nickspaargaren/no-google)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nickspaargaren&repo=no-amazon)](https://github.com/nickspaargaren/no-amazon)
-
-</details>
-
-
-
-<details>
-  <summary>Websites I Have Built</summary> <br>
-  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsmat32143&repo=Bannedapps.uk)](https://github.com/itsmat32143/Bannedapps.uk)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsmat32143&repo=Block)](https://github.com/itsmat32143/Block)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsmat32143&repo=Trainingroomni)](https://github.com/itsmat32143/Trainingroomni)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsmat32143&repo=Shop)](https://github.com/itsmat32143/Shop)
-
-
-</details>
-
-
-
-<details>
   <summary>Ways To Support My Projects</summary> <br>
 
 <a href="https://www.buymeacoffee.com/itsmat32143" target="_self" rel="nofollow">Buy Me A Beer</a> <br>
