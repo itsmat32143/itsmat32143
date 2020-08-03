@@ -32,9 +32,17 @@
 
 [Buy Me A Beer](https://www.buymeacoffee.com/itsmat32143) <br>
 [Paypal](https://itsmat32143.github.io/Block/GAFAM/Amazon) <br>
-[Brave Rewards](https://itsmat32143.github.io/Block/GAFAM/Amazon) <br>
-[Brave Rewards](https://itsmat32143.github.io/Block/GAFAM/Amazon) <br>
-[Bitcoin](1GygUYqU3hJtaTaeRFeGZsGdTezSognfLC) <br>
+[Brave Rewards](https://itsmat32143.github.io/Block/GAFAM/Amazon) <br> <br>
+
+[Bitcoin](1EGEucXT1sNQeDCfiFC8pFQ6VUXNZ6pyFy) <br>
+[Dash](XsvhsQSp4EtthxhX1MV5bFM3QgE2TqVWWo) <br>
+[Ether](1GygUYqU3hJtaTaeRFeGZsGdTezSognfLC) <br>
+[Litecoin](1GygUYqU3hJtaTaeRFeGZsGdTezSognfLC) <br>
+[Bitcoin Cash](1GygUYqU3hJtaTaeRFeGZsGdTezSognfLC) <br>
+[Bitcoin Gold](1GygUYqU3hJtaTaeRFeGZsGdTezSognfLC) <br>
+[XRP](1GygUYqU3hJtaTaeRFeGZsGdTezSognfLC) <br> <br>
+
+[Basic Attention Token](1GygUYqU3hJtaTaeRFeGZsGdTezSognfLC) <br>
 
 </details>
 
