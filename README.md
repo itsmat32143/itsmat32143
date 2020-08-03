@@ -33,6 +33,8 @@
 [Buy Me A Beer](https://www.buymeacoffee.com/itsmat32143) <br>
 [Paypal](https://itsmat32143.github.io/Block/GAFAM/Amazon) <br>
 [Brave Rewards](https://itsmat32143.github.io/Block/GAFAM/Amazon) <br>
+[Brave Rewards](https://itsmat32143.github.io/Block/GAFAM/Amazon) <br>
+[Bitcoin](1GygUYqU3hJtaTaeRFeGZsGdTezSognfLC) <br>
 
 </details>
 
