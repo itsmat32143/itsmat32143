@@ -10,6 +10,8 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nickspaargaren&repo=no-google)](https://github.com/nickspaargaren/no-google)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nickspaargaren&repo=no-amazon)](https://github.com/nickspaargaren/no-amazon)
 
+</details>
+
 
 
 <details>
@@ -19,6 +21,7 @@
 [![https://itsmat32143.github.io/Block/GAFAM/Amazon](https://itsmat32143.github.io/Block/GAFAM/Amazon)]
 [![https://itsmat32143.github.io/Block/GAFAM/Amazon](https://itsmat32143.github.io/Block/GAFAM/Amazon)]
 
+</details>
 
 
 
