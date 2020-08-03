@@ -30,6 +30,8 @@
 <details>
   <summary>Ways To Support My Projects</summary> <br>
 
+href="Buy Me A Beer">https://www.buymeacoffee.com/itsmat32143</a>
+
 [Buy Me A Beer](https://www.buymeacoffee.com/itsmat32143) <br>
 [Paypal](https://paypal.com) <br> <br>
 
