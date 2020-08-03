@@ -15,7 +15,7 @@
 
 
 <details>
-  <summary>Projects I've helped with</summary>
+  <summary>Projects I've helped with</summary> <br>
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsmat32143&repo=Bannedapps.uk)](https://github.com/itsmat32143/Bannedapps.uk)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsmat32143&repo=Block)](https://github.com/itsmat32143/Block)
