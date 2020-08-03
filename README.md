@@ -31,7 +31,7 @@
   <summary>Ways To Support My Projects</summary> <br>
 
 [Buy Me A Beer](https://www.buymeacoffee.com/itsmat32143) <br>
-[Paypal](https://itsmat32143.github.io/Block/GAFAM/Amazon) <br> <br>
+[Paypal](https://paypal.com) <br> <br>
 
 [Download Brave](https://brave.com/its458)
 [Brave Rewards](https://brave.com/tip-with-brave/) <br>
