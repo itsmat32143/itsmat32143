@@ -30,14 +30,11 @@
 <details>
   <summary>Ways To Support My Projects</summary> <br>
 
-
 <a href="https://www.buymeacoffee.com/itsmat32143" target="_self" rel="nofollow">Buy Me A Beer</a> <br>
+<a href="https://paypal.com" target="_self" rel="nofollow">Paypal</a> <br> <br>
 
-[Buy Me A Beer](https://www.buymeacoffee.com/itsmat32143) <br>
-[Paypal](https://paypal.com) <br> <br>
-
-[Download Brave](https://laptop-updates.brave.com/download/ITS458) <br>
-[Brave Rewards](https://brave.com/tip-with-brave/) <br>
+<a href="https://laptop-updates.brave.com/download/ITS458" target="_self" rel="nofollow">Download Brave</a> <br>
+<a href="https://brave.com/tip-with-brave/" target="_self" rel="nofollow">Brave Rewards</a> <br>
 Basic Attention Token - 0xa537638838a4F220a09e2C666D2d4B8E2EEB7BDd <br> <br>
 
 Bitcoin - 1EGEucXT1sNQeDCfiFC8pFQ6VUXNZ6pyFy - Please send at least ฿ 0.0001 BTC <br>
