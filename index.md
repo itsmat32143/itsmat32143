@@ -31,8 +31,7 @@
   <summary>Ways To Support My Projects</summary> <br>
 
 
-<a href="/Machttps://www.buymeacoffee.com/itsmat32143" target="_self" rel="nofollow">Buy Me A Beer</a>
-
+<a href="https://www.buymeacoffee.com/itsmat32143" target="_self" rel="nofollow">Buy Me A Beer</a> <br>
 
 [Buy Me A Beer](https://www.buymeacoffee.com/itsmat32143) <br>
 [Paypal](https://paypal.com) <br> <br>
