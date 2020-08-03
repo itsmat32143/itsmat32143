@@ -1,11 +1,13 @@
-### Hi there 👋
+<div align="center">
+  <h3>What's up! 👋</h3>
+  <p>Welcome to my profile, most of my work is private. But I have some public projects here.</p>
 
 ### Want to know more? Open the colapsible menu below :)
 
 <details>
-  <summary>OS projects I've helped with</summary>
+  <summary>Projects I've helped with</summary>
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=simonbengtsson&repo=AirDash)](https://github.com/simonbengtsson/airdash)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nickspaargaren&repo=no-google)](https://github.com/nickspaargaren/no-google)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=loggin-js&repo=loggin-js)](https://github.com/loggin-js/loggin-js)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
