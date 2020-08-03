@@ -5,7 +5,7 @@
 ### Want to know more? Open the colapsible menu below :)
 
 <details>
-  <summary>Projects I've helped with</summary>
+  <summary>Projects I've Helped With</summary>
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nickspaargaren&repo=no-google)](https://github.com/nickspaargaren/no-google)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nickspaargaren&repo=no-amazon)](https://github.com/nickspaargaren/no-amazon)
@@ -15,7 +15,7 @@
 
 
 <details>
-  <summary>Projects I've helped with</summary> <br>
+  <summary>Websites I Have Built</summary> <br>
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsmat32143&repo=Bannedapps.uk)](https://github.com/itsmat32143/Bannedapps.uk)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsmat32143&repo=Block)](https://github.com/itsmat32143/Block)
@@ -31,8 +31,11 @@
   <summary>Ways To Support My Projects</summary> <br>
 
 [Buy Me A Beer](https://www.buymeacoffee.com/itsmat32143) <br>
-[Paypal](https://itsmat32143.github.io/Block/GAFAM/Amazon) <br>
-[Brave Rewards](https://itsmat32143.github.io/Block/GAFAM/Amazon) <br> <br>
+[Paypal](https://itsmat32143.github.io/Block/GAFAM/Amazon) <br> <br>
+
+[Download Brave](https://brave.com/its458)
+[Brave Rewards](https://brave.com/tip-with-brave/) <br>
+[Basic Attention Token](1GygUYqU3hJtaTaeRFeGZsGdTezSognfLC) <br> <br>
 
 [Bitcoin](1EGEucXT1sNQeDCfiFC8pFQ6VUXNZ6pyFy) <br>
 [Dash](XsvhsQSp4EtthxhX1MV5bFM3QgE2TqVWWo) <br>
@@ -41,8 +44,6 @@
 [Bitcoin Cash](1GygUYqU3hJtaTaeRFeGZsGdTezSognfLC) <br>
 [Bitcoin Gold](1GygUYqU3hJtaTaeRFeGZsGdTezSognfLC) <br>
 [XRP](1GygUYqU3hJtaTaeRFeGZsGdTezSognfLC) <br> <br>
-
-[Basic Attention Token](1GygUYqU3hJtaTaeRFeGZsGdTezSognfLC) <br>
 
 </details>
 
