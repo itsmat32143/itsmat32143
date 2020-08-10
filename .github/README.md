@@ -35,36 +35,39 @@
 
 [Download Brave](https://laptop-updates.brave.com/download/ITS458) <br>
 [Brave Rewards](https://brave.com/tip-with-brave/) <br>
-Basic Attention Token - 0xa537638838a4F220a09e2C666D2d4B8E2EEB7BDd <br> <br>
+
+Basic Attention Token <br>
+0xa537638838a4F220a09e2C666D2d4B8E2EEB7BDd <br>
+Please send at least 0.0001 BAT <br><br>
 
 Bitcoin <br>
 1EGEucXT1sNQeDCfiFC8pFQ6VUXNZ6pyFy <br>
-Please send at least ฿ 0.0001 BTC <br>
+Please send at least ฿ 0.0001 BTC <br><br>
 
 Dash <br>
 XsvhsQSp4EtthxhX1MV5bFM3QgE2TqVWWo <br>
-Please send at least 0.0001 DASH <br>
+Please send at least 0.0001 DASH <br><br>
 
 Ether <br>
 0xa537638838a4F220a09e2C666D2d4B8E2EEB7BDd <br>
-Please send at least Ξ 0.0001 ETH <br>
+Please send at least Ξ 0.0001 ETH <br><br>
 
 Litecoin <br>
 LM2qH3hv7Q6bKvsNoCuqudkjuYLayNr6yq <br>
-Please send at least Ł 0.0001 LTC <br>
+Please send at least Ł 0.0001 LTC <br><br>
 
 Bitcoin Cash <br>
 1HTFijbA7iypd3uE4MuGqLYwAEz2JTjRYF <br>
-Please send at least 0.0001 BCH <br>
+Please send at least 0.0001 BCH <br><br>
 
 Bitcoin Gold <br>
 GfxtYsGqXtDvoyAR6oKLnn4iBsaZkDLcZF <br>
-Please send at least 0.0001 BTG <br>
+Please send at least 0.0001 BTG <br><br>
 
 XRP <br>
 rMdG3ju8pgyVh29ELPWaDuA74CpWW6Fxns <br>
 1593621033 <br>
-Please send at least 0.0001 XRP <br>
+Please send at least 0.0001 XRP <br><br>
 
 </details>
 
