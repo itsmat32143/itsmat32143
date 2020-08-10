@@ -34,7 +34,7 @@
 [Paypal](https://paypal.com) <br> <br>
 
 [Download Brave](https://laptop-updates.brave.com/download/ITS458) <br>
-[Brave Rewards](https://brave.com/tip-with-brave/) <br>
+[Brave Rewards](https://brave.com/tip-with-brave/) <br><br>
 
 Basic Attention Token <br>
 0xa537638838a4F220a09e2C666D2d4B8E2EEB7BDd <br>
