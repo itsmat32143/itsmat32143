@@ -2,6 +2,12 @@
   <h3>What's up! 👋</h3>
   <p>Welcome to my profile, most of my work is private. But I have some public projects here.</p>
 
+</p>
+
+  <p align = "center">
+    <img src="https://github-readme-stats.vercel.app/api?username=itsmat32143&show_icons=true"/>
+  </p>
+  
 ### Want to know more? Open the colapsible menu below 😊
 
 <details>
@@ -120,13 +126,5 @@ Here are some ideas to get you started:
 <a href="https://github.com/tg-z"><img src="https://img.icons8.com/material-sharp/24/000000/github.png" height="20px" width="20px"/>
 
 
-</p>
 
-  <p align = "center">
-    <img src="https://github-readme-stats.vercel.app/api?username=itsmat32143&show_icons=true"/>
-  </p>
-
-  <p align = "center">
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@a0fe3309-ca59-430f-a67d-5ba8d95a5b2c/84b06af2-f460-4326-af31-073697e73e20.svg" width="75%" height="75%" /></a>
-  </p>
 
