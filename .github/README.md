@@ -16,7 +16,7 @@
 
 ### Want to know more? Open the colapsible menu below 😊
 
-
+<details>
 <summary>Projects I've Helped With</summary>
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nickspaargaren&repo=no-google)](https://github.com/nickspaargaren/no-google)
@@ -27,14 +27,13 @@
 
 
 <details>
-  <summary>Websites I Have Built</summary> <br>
+<summary>Websites I Have Built</summary> <br>
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsmat32143&repo=Bannedapps.uk)](https://github.com/itsmat32143/Bannedapps.uk)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsmat32143&repo=Block)](https://github.com/itsmat32143/Block)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsmat32143&repo=Trainingroomni.co.uk)](https://github.com/itsmat32143/Trainingroomni.co.uk)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsmat32143&repo=Shop)](https://github.com/itsmat32143/Shop)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsmat32143&repo=IPTV)](https://github.com/itsmat32143/IPTV)
-
 
 </details>
 
