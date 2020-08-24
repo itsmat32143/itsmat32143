@@ -17,8 +17,7 @@
 ### Want to know more? Open the colapsible menu below 😊
 
 
-<details>
-  <summary>Projects I've Helped With</summary>
+<summary>Projects I've Helped With</summary>
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nickspaargaren&repo=no-google)](https://github.com/nickspaargaren/no-google)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nickspaargaren&repo=no-amazon)](https://github.com/nickspaargaren/no-amazon)
