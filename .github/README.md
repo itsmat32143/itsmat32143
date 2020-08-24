@@ -2,11 +2,14 @@
   <h3>What's up! 👋</h3>
   <p>Welcome to my profile, most of my work is private. But I have some public projects here.</p>
 
-</p>
+<p align="center">
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:itsmat32143-github@gmx.com"><img src="https://image.flaticon.com/icons/svg/520/520648.svg" height="20px" width="20px"/></a>
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+<a href="https://github.com/itsmat32143"><img src="https://img.icons8.com/material-sharp/24/000000/github.png" height="20px" width="20px"/>
 
-  <p align = "center">
-    <img src="https://github-readme-stats.vercel.app/api?username=itsmat32143&show_icons=true"/>
-  </p>
+<p align = "center">
+<img src="https://github-readme-stats.vercel.app/api?username=itsmat32143&show_icons=true"/>
   
 ### Want to know more? Open the colapsible menu below 😊
 
@@ -117,13 +120,7 @@ Here are some ideas to get you started:
   <h3 align="center">tg-z</h3>
   <h5 align="center">made with ❤️ by serafina</h5>
   <h5 align="center">connect with me:</h5>
-<p align="center">
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/parasite______"><img src="https://img.icons8.com/android/24/000000/twitter.png" height="20px" width="20px"/></a>
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-<a href="https://www.are.na/tg-z"><img src="https://d2hp0ptr16qg89.cloudfront.net/assets/127302a/touch-icon-iphone-retina.png" height="20px" width="20px"/></a>
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-<a href="https://github.com/tg-z"><img src="https://img.icons8.com/material-sharp/24/000000/github.png" height="20px" width="20px"/>
+
 
 
 
