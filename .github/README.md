@@ -3,9 +3,7 @@
   <p>Welcome to my profile, most of my work is private. But I have some public projects here.</p>
 
 <p align="center">
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:itsmat32143-github@gmx.com"><img src="https://image.flaticon.com/icons/svg/520/520648.svg" height="20px" width="20px"/></a>
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/itsmat32143"><img src="https://img.icons8.com/material-sharp/24/000000/github.png" height="20px" width="20px"/>
 
 <p align = "center">
