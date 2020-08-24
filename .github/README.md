@@ -14,7 +14,7 @@
 <br>
 
 ### Want to know more? Open the colapsible menu below 😊
-
+<p>
 <details>
 <summary>Projects I've Helped With</summary> <br>
 
@@ -36,7 +36,7 @@
 
 </details>
 
-
+</p>
 
 <details>
 <summary>Ways To Support My Projects</summary> <br>
