@@ -1,6 +1,6 @@
 <div align="center">
   <h3>What's up! 👋</h3>
-  <p>Welcome to my profile, most of my work is private. But I have some public projects here.</p>
+  <p>Welcome to my profile, most of my work is private. But I have some public projects here to you can contact me or see my stats below. 😜</p>
 
 <p align="center">
 <a href="mailto:itsmat32143-github@gmx.com"><img src="https://image.flaticon.com/icons/svg/520/520648.svg" height="20px" width="20px"/></a>
