@@ -10,6 +10,7 @@
 
 <p align = "center">
 <img src="https://github-readme-stats.vercel.app/api?username=itsmat32143&show_icons=true"/>
+</p>
   
 ### Want to know more? Open the colapsible menu below 😊
 
@@ -110,18 +111,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
-
-
-
-<p align="center">
-  <h3 align="center">tg-z</h3>
-  <h5 align="center">made with ❤️ by serafina</h5>
-  <h5 align="center">connect with me:</h5>
-
-
-
-
-
