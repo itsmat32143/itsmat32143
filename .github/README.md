@@ -11,8 +11,11 @@
 <p align = "center">
 <img src="https://github-readme-stats.vercel.app/api?username=itsmat32143&show_icons=true"/>
 </p>
-  
+
+<br>
+
 ### Want to know more? Open the colapsible menu below 😊
+
 
 <details>
   <summary>Projects I've Helped With</summary>
