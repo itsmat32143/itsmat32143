@@ -15,6 +15,8 @@
 
 ### Want to know more? Open the colapsible menu below 😊
 
+<br>
+
 <details>
 <summary>Projects I've Helped With</summary> <br>
   
