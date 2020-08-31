@@ -40,4 +40,4 @@
 
 
 <p align="center">
-<a href="mailto:itsmat32143-github@gmx.com"><img src="https://mxred.org/wp-content/uploads/2012/12/PayPal-Donate-Button-Transparent-e1496153762702.png" height="20px" width="20px"/></a>
+<a href="mailto:itsmat32143-github@gmx.com"><img src="https://mxred.org/wp-content/uploads/2012/12/PayPal-Donate-Button-Transparent-e1496153762702.png" height="100px" width="100px"/></a>
