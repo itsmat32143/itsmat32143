@@ -3,8 +3,8 @@
   <p>Welcome to my profile, most of my work is private. But I have some public projects here to you can contact me or see my stats below. 😜</p>
 
 <p align="center">
-<a href="mailto:itsmat32143-github@gmx.com"><img src="https://image.flaticon.com/icons/svg/520/520648.svg" height="20px" width="20px"/></a>
-<a href="https://github.com/itsmat32143"><img src="https://img.icons8.com/material-sharp/24/000000/github.png" height="20px" width="20px"/>
+<a href="mailto:itsmat32143-github@gmx.com"><img src="https://image.flaticon.com/icons/svg/520/520648.svg" height="40px" width="40px"/></a>
+<a href="https://github.com/itsmat32143"><img src="https://img.icons8.com/material-sharp/24/000000/github.png" height="40px" width="40px"/>
 
 <p align = "center">
 <img src="https://github-readme-stats.vercel.app/api?username=itsmat32143&show_icons=true"/>
