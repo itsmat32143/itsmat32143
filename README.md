@@ -6,6 +6,7 @@
 <a href="mailto:itsmat32143-github@gmx.com"><img src="https://image.flaticon.com/icons/svg/520/520648.svg" height="40px" width="40px"/></a>
 <a href="https://github.com/itsmat32143"><img src="https://image.flaticon.com/icons/svg/25/25231.svg" height="40px" width="40px"/>
 <a href="https://bannedapps.uk"><img src="https://logodix.com/logo/68292.png" height="40px" width="40px"/>
+<a href="https://twitter.com"><img src="https://www.vhv.rs/dpng/d/298-2980248_tweet-twitter-picsart-picsartlogo-logo-lol-kakao-circle.png" height="40px" width="40px"/>
   
   
 <p align = "center">
