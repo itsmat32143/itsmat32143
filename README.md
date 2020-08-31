@@ -4,7 +4,7 @@
 
 <p align="center">
 <a href="mailto:itsmat32143-github@gmx.com"><img src="https://image.flaticon.com/icons/svg/520/520648.svg" height="40px" width="40px"/></a>
-<a href="https://github.com/itsmat32143"><img src="https://banner2.cleanpng.com/20180512/gle/kisspng-github-pages-logo-computer-icons-5af70e19834367.5091665315261404415377.jpg" height="40px" width="40px"/>
+<a href="https://github.com/itsmat32143"><img src="https://image.flaticon.com/icons/svg/25/25231.svg" height="40px" width="40px"/>
 
 <p align = "center">
 <img src="https://github-readme-stats.vercel.app/api?username=itsmat32143&show_icons=true"/>
