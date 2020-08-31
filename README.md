@@ -16,11 +16,8 @@
 
 ### Want to know more? Open the colapsible menu below 😊
 
-<br>
-
 <details>
 <summary>Websites I Have Built</summary> <br>
-  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsmat32143&repo=Bannedapps.uk)](https://github.com/itsmat32143/Bannedapps.uk)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsmat32143&repo=Block)](https://github.com/itsmat32143/Block)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsmat32143&repo=Trainingroomni.co.uk)](https://github.com/itsmat32143/Trainingroomni.co.uk)
@@ -28,16 +25,11 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsmat32143&repo=IPTV)](https://github.com/itsmat32143/IPTV)
 </details>
 
-
-
 <details>
 <summary>Projects I've Helped With</summary> <br>
-  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nickspaargaren&repo=no-google)](https://github.com/nickspaargaren/no-google)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nickspaargaren&repo=no-amazon)](https://github.com/nickspaargaren/no-amazon)
 </details>
-
-
 
 <p align="center">
 <a href="https://itsmat32143.github.io/itsmat32143/Sponsor"><img src="https://mxred.org/wp-content/uploads/2012/12/PayPal-Donate-Button-Transparent-e1496153762702.png" height="100px" width="200px"/></a>
