@@ -14,7 +14,6 @@
 
 ### Want to know more? Open the colapsible menu below 😊
 
-<details>
 <summary>Websites I Have Built</summary>
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsmat32143&repo=Bannedapps.uk)](https://github.com/itsmat32143/Bannedapps.uk)
