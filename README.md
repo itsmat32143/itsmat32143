@@ -3,7 +3,7 @@
   <p>Welcome to my profile, most of my work is private. But I have some public projects here to you can contact me or see my stats below. 😜</p>
 
 <p align="center">
-<a href="mailto:itsmat32143-github@gmx.com"><img src="https://t3.ftcdn.net/jpg/03/69/04/12/240_F_369041227_TNuUq0MaqITv0afS3VxyHTthmL4Hl6Z5.jpg" height="40px" width="40px"/></a>
+<a href="mailto:itsmat32143-github@gmx.com"><img src="https://image.flaticon.com/icons/svg/356/356043.svg" height="40px" width="40px"/></a>
 <a href="https://github.com/itsmat32143"><img src="https://image.flaticon.com/icons/svg/25/25231.svg" height="40px" width="40px"/>
 <a href="https://github.com/itsmat32143"><img src="https://image.flaticon.com/icons/svg/356/356041.svg" height="40px" width="40px"/>
 <a href="https://bannedapps.uk"><img src="https://logodix.com/logo/68292.png" height="40px" width="40px"/>
