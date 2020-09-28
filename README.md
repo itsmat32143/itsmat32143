@@ -9,7 +9,7 @@
 <a href="https://github.com/itsmat32143"><img src="https://image.flaticon.com/icons/svg/25/25231.svg" height="40px" width="40px"/>
 <a href="https://www.reddit.com/user/itsmat32143"><img src="https://image.flaticon.com/icons/svg/356/356041.svg" height="40px" width="40px"/>
 
-  
+</p><br>
   
 <p align = "center">
 <img src="https://github-readme-stats.vercel.app/api?username=itsmat32143&show_icons=true"/>
