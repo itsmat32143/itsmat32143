@@ -21,3 +21,4 @@
 <a href="https://itsmat32143.github.io/itsmat32143"><img src="https://mxred.org/wp-content/uploads/2012/12/PayPal-Donate-Button-Transparent-e1496153762702.png" height="100px" width="200px"/></a>
 
 
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
