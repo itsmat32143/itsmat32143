@@ -1,3 +1,11 @@
+
+<script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
+<script type="IN/Share" data-url="https://www.smile.amazon.co.uk"></script>
+
+Yeet
+
+
+
 <div align="center">
   <h3>What's up! 👋</h3>
   <p>Welcome to my profile, most of my work is private. But I have some public projects here to you can contact me or see my stats below. 😜</p>
